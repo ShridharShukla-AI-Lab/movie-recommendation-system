@@ -10,6 +10,9 @@ All credit for the original method belongs to the authors.
 # Project Title:
 Movie Recommendation System using Collaborative Filtering
 
+# Goal:
+identify which algorithm performs best.
+
 # Description
 This project compares multiple recommendation algorithms using the MovieLense dataset.
 
