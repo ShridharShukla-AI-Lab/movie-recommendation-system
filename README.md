@@ -17,6 +17,19 @@ Recommend movies based on user preferences and identify which algorithm performs
 # Description
 This project compares multiple recommendation algorithms using the MovieLense dataset.
 
+## Experiment 1
+Content-based (genres)
+
+## Experiment 2
+Content-based (genres + tags)
+
+## Experiment 3
+Collaborative filtering
+
+## Experiment 4
+Matrix factorization
+
+
 # Algorithms Implemented
 . popularity-based recommendation <br />
 . content-based filtering <br />
