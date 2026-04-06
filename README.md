@@ -11,7 +11,7 @@ All credit for the original method belongs to the authors.
 Movie Recommendation System using Collaborative Filtering
 
 # Goal:
-identify which algorithm performs best.
+Recommend movies based on user preferences and identify which algorithm performs best.
 
 # Description
 This project compares multiple recommendation algorithms using the MovieLense dataset.
@@ -20,6 +20,9 @@ This project compares multiple recommendation algorithms using the MovieLense da
 . popularity-based recommendation <br />
 . content-based filtering <br />
 . collaborative filtering
+
+cosine similarity<br />
+collaborative filtering
 
 # Dataset
 
