@@ -25,6 +25,11 @@ This project compares multiple recommendation algorithms using the MovieLense da
 
 MovieLens dataset
 
+# Tools:
+Python
+scikit-learn
+Google Colab
+
 # Results
 
 < Add simple graphs or tables. >
