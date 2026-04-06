@@ -29,6 +29,16 @@ collaborative filtering
 
 MovieLens dataset
 
+
+# Feature Engineering
+
+## Baseline model:
+Genres only
+
+## Improved model:
+Title + Genres + User Tags
+
+
 # Tools:
 Python <br />
 scikit-learn <br />
